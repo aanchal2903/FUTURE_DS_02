@@ -66,5 +66,4 @@ The dashboard provides actionable insights into campaign performance, top-perfor
 4. Explore trends, top campaigns, and ROI to make data-driven decisions.  
 
 ---
-## Conclusion
-This project demonstrates **real-world ad performance tracking** and **interactive dashboard creation** in Power BI. It is suitable for internship submission or portfolio showcase.  
+
